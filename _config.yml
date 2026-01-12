@@ -9,8 +9,8 @@ description: >-
   Presbyterian Covenanter perspective, with the Gospel of Jesus Christ 
   at the heart of everything.
 
-baseurl: "" # Leave empty for GitHub Pages
-url: "https://standing-small.github.io" # Your future domain
+baseurl: "/standing-small"
+url: "https://forestwalkuk.github.io"
 
 # Author information
 author:
