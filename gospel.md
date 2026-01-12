@@ -30,7 +30,7 @@ Our sin has separated us from a holy God:
 
 > *"But your iniquities have separated between you and your God, and your sins have hid his face from you, that he will not hear."* — Isaiah 59:2
 
-The penalty for sin is death—eternal separation from God in hell:
+The penalty for sin is death—eternal separation from God’s blessed presence in Hell:
 
 > *"For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord."* — Romans 6:23
 
@@ -96,9 +96,15 @@ If God has saved you:
 
 - **Read the Bible daily** (start with the Gospel of John)
 - **Pray regularly** (speak to God as your Father)
+- **Live for Christ's glory** in every area of your life
+
+### What about Church?
+
+Under normal circumstances, the advice would be:-
 - **Find a faithful church** that preaches the pure Gospel and upholds the authority of Scripture
 - **Be baptised** as a public profession of faith
-- **Live for Christ's glory** in every area of your life
+
+Tragically, and very sadly, there is no church currently constituted in the UK which the author can in good conscience recommend. As this site aims to document, the nation has departed from God.
 
 ---
 
