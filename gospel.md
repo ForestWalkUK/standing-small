@@ -98,13 +98,26 @@ If God has saved you:
 - **Pray regularly** (speak to God as your Father)
 - **Live for Christ's glory** in every area of your life
 
-### What about Church?
+### What About Church?
 
-Under normal circumstances, the advice would be:-
+Scripture commands believers not to forsake "the assembling of ourselves together" (Hebrews 10:25). Under normal circumstances, new believers should:
+
 - **Find a faithful church** that preaches the pure Gospel and upholds the authority of Scripture
 - **Be baptised** as a public profession of faith
+- **Submit to godly oversight** and grow in fellowship with other saints
 
-Tragically, and very sadly, there is no church currently constituted in the UK which the author can in good conscience recommend. As this site aims to document, the nation has departed from God.
+However, the situation in the United Kingdom today is grievous. Whilst there are many true believers and genuine congregations scattered throughout the land, there is presently no church in the UK that can be recommended without reservation. The nation has departed from God, and the visible church has, without exception, either abandoned or remains ignorant of the solemn National Covenants sworn before God in 1638 and 1643.
+
+These Covenants—the National Covenant of Scotland and the Solemn League and Covenant—bound the nations of Scotland, England, and Ireland to uphold the Crown Rights of King Jesus, reform His Church according to the Word of God, and preserve true religion for generations to come. They were not mere historical documents, but sacred vows made in the presence of Almighty God, binding upon posterity.
+
+The churches today stand as covenant-breakers, whether through wilful abandonment or culpable ignorance. Yet even in this, we acknowledge the tender mercies of the LORD, who preserves a remnant and remains faithful to His elect.
+
+**What should you do?**
+
+- **Study the Westminster Standards** and the history of the Covenanted Reformation to understand what has been lost
+- **Maintain personal devotion** to Christ, knowing that He is building His Church and the gates of Hell shall not prevail against it
+
+> *"Nevertheless the foundation of God standeth sure, having this seal, The Lord knoweth them that are his."* — 2 Timothy 2:19
 
 ---
 
