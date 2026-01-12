@@ -78,3 +78,82 @@ nav {
     background: #000;
     color: white;
 }
+
+
+/* ========================================
+   CONSTRUCTION BANNER: BIG, BOLD, UNMISSABLE
+   Add this to the END of your _sass/custom.scss file
+   ======================================== */
+
+.construction-banner {
+    background: linear-gradient(135deg, #FFA500 0%, #FF8C00 100%);
+    border-bottom: 6px solid #000;
+    padding: 2rem 1rem;
+    text-align: center;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.construction-content {
+    max-width: 900px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+}
+
+.construction-icon {
+    font-size: clamp(3rem, 8vw, 5rem);
+    line-height: 1;
+    animation: pulse 2s ease-in-out infinite;
+}
+
+@keyframes pulse {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+}
+
+.construction-text {
+    flex: 1;
+    min-width: 300px;
+}
+
+.construction-text h2 {
+    font-size: clamp(1.5rem, 4vw, 2.5rem);
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #000;
+    margin: 0 0 0.5rem 0;
+    text-shadow: 2px 2px 0 rgba(255, 255, 255, 0.5);
+}
+
+.construction-text p {
+    font-size: clamp(0.9rem, 2vw, 1.1rem);
+    color: #000;
+    font-weight: 700;
+    line-height: 1.4;
+    margin: 0;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Ensure banner works on mobile */
+@media (max-width: 600px) {
+    .construction-banner {
+        padding: 1.5rem 1rem;
+    }
+    
+    .construction-content {
+        gap: 1rem;
+    }
+    
+    .construction-icon:last-child {
+        display: none;
+    }
+}
