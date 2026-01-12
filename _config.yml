@@ -1,0 +1,61 @@
+# Standing-Small Jekyll Site Configuration
+# Version 1.0
+
+# Site settings
+title: Standing-Small
+tagline: "History Opened. Faith Defended. Christ Exalted."
+description: >-
+  Documenting the decline of Protestant Christianity from a Reformed 
+  Presbyterian Covenanter perspective, with the Gospel of Jesus Christ 
+  at the heart of everything.
+
+baseurl: "" # Leave empty for GitHub Pages
+url: "https://standing-small.github.io" # Your future domain
+
+# Author information
+author:
+  name: Forest
+  email: # Add if you wish
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation menu
+header_pages:
+  - index.md
+  - gospel.md
+  - articles.md
+  - about.md
+  
+# Custom CSS
+sass:
+  style: compressed
+
+# Collections for articles
+collections:
+  articles:
+    output: true
+    permalink: /articles/:title/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "articles"
+    values:
+      layout: "article"
+      
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+
+
+
